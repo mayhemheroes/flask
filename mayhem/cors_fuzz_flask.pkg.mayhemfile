@@ -1,0 +1,4 @@
+project: PROJECT
+target: cors_fuzz_flask.pkg
+cmds:
+- cmd: /out/cors_fuzz_flask.pkg
